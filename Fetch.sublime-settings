@@ -1,0 +1,13 @@
+{
+    "files":
+    {
+        "handlebars": "https://raw.github.com/wycats/handlebars.js/1.0.0/dist/handlebars.js",
+        "jquery": "http://code.jquery.com/jquery.js",
+        "jquery.min": "http://code.jquery.com/jquery.min.js"
+    },
+    "packages":
+    {
+        "bootstrap": "http://twitter.github.io/bootstrap/assets/bootstrap.zip",
+        "html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+    }
+}

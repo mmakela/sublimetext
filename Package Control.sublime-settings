@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Better Completion",
+		"Emmet",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"jQuery",
+		"jQuery Snippets pack",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Search Stack Overflow",
+		"SublimeLinter"
+	]
+}

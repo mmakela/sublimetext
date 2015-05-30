@@ -1,0 +1,3 @@
+{
+    "cmd": [ "/usr/local/share/python/fab", "-f", "$file", "--disable-known-hosts", "install:name"]
+}
