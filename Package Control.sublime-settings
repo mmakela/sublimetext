@@ -7,16 +7,24 @@
 	[
 		"AdvancedNewFile",
 		"Better Completion",
+		"Build Switcher",
 		"Emmet",
+		"Fabric Tasks",
+		"FileDiffs",
 		"FindKeyConflicts",
 		"Git",
 		"GitGutter",
+		"Jinja2",
 		"jQuery",
 		"jQuery Snippets pack",
 		"LiveReload",
 		"Nettuts+ Fetch",
 		"Package Control",
+		"Robot Framework Assistant",
+		"SaltStack-related syntax highlighting and snippets",
 		"Search Stack Overflow",
-		"SublimeLinter"
+		"SublimeLinter",
+		"Theme - Soda SolarizedDark",
+		"Tomorrow Color Schemes"
 	]
 }

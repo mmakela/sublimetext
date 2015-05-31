@@ -1,0 +1,7 @@
+{
+    "pep8": true,
+    "pep8_ignore": 
+    [
+        "E302"
+    ]
+}
