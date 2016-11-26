@@ -3,10 +3,12 @@
 	{
 		"handlebars": "https://raw.github.com/wycats/handlebars.js/1.0.0/dist/handlebars.js",
 		"jquery": "http://code.jquery.com/jquery.js",
-		"jquery.min": "http://code.jquery.com/jquery.min.js"
+		"jquery.min": "http://code.jquery.com/jquery.min.js",
+		"ko-mapping": "https://raw.githubusercontent.com/SteveSanderson/knockout.mapping/master/build/output/knockout.mapping-latest.js"
 	},
 	"packages":
 	{
+		"alfred-workflow": "https://github.com/deanishe/alfred-workflow/archive/master.zip",
 		"bootstrap": "https://github.com/twbs/bootstrap/archive/master.zip",
 		"bootswatch": "https://github.com/thomaspark/bootswatch/archive/gh-pages.zip",
 		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"

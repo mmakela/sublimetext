@@ -1,7 +1,9 @@
 {
 	"auto_upgrade_last_run": true,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"LiveReload"
 	],
 	"installed_packages":
 	[

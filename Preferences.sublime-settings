@@ -1,8 +1,43 @@
 {
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme",
+	"file_exclude_patterns":
+	[
+		".coverage",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db"
+	],
+	"folder_exclude_patterns":
+	[
+		"htmlcov",
+		"__pycache__",
+		".tox",
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_size": 13.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"LiveReload",
 		"Vintage"
 	],
 	"rulers":
